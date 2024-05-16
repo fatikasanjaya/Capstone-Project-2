@@ -35,3 +35,7 @@ Dengan potensi besar bagi pariwisata di Bangkok, Airbnb Bangkok harus siap mengh
 5. Memahami tingkat hunian properti untuk merencanakan strategi pemasaran, harga, dan manajemen ketersediaan properti.
    
 6. Menyelidiki tren pertumbuhan atau penurunan jumlah listing Airbnb di Bangkok seiring waktu untuk mengantisipasi perubahan pasar.
+
+### Tableau Dashboard
+
+[Link to Tableau Dashboard](https://public.tableau.com/views/AirbnbBangkokAnalysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
